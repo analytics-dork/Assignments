@@ -18,15 +18,15 @@ int main()
 	}
 	else if(((input-1)%6==0 || (input+1)%6==0) && input%5==0)
 	{
-		cout<<"\n Your number is not PRIME \n"<<endl;
+	cout<<"\n Your number is not PRIME \n"<<endl;
 	}
 	else if((input-1)%6==0 || (input+1)%6==0 )
 	{
-		cout<<"\n Your number is PRIME \n"<<endl;
+	cout<<"\n Your number is PRIME \n"<<endl;
 	}
 	else
 	{
-		cout<<"\n Your number is not PRIME \n"<<endl;
+	cout<<"\n Your number is not PRIME \n"<<endl;
 	}
 	
 	system("pause");
