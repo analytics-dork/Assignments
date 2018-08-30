@@ -29,6 +29,5 @@ int main()
 	cout<<"\n Your number is not PRIME \n"<<endl;
 	}
 	
-	system("pause");
 	return 0;
 }
